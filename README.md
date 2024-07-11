@@ -6,4 +6,4 @@
 - 1.7.0 : MCCLAREN
 
 - 3.0.0 : SUDDEN  SHELL SCRIPT 
-
+- 3.0.1 : fix update date
