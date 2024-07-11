@@ -2,9 +2,12 @@
 
 FILE=~/tmp/_SUDDEN
 
-while true 
+while true
 do
-	echo "check"
-	sleep 3
+     if [[ -f "$FILE" ]]; then
+	     echo "SUDDEN!!"
+     else
+	 date
+     fi
+     sleep 3
 done
-
