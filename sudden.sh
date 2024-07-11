@@ -1,5 +1,5 @@
 #!/bin/bash
-
+a
 FILE=~/tmp/_SUDDEN
 
 while true
